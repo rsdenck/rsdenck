@@ -68,7 +68,7 @@ Trabalho na **Apex Cloud**, onde oferecemos o serviço **Apex Monitoring**, uma 
 ## 🚀 Projetos  
 
 🔹 **[Apex Monitoring](https://github.com/rsdenck/apex-monitoring)**  
-🔹 **[Zabbix Proxy ISO Customizada](https://github.com/rsdenck/zabbix-proxy-iso)**  
+🔹 **[Zabbix Proxy ISO Customizada](https://github.com/rsdenck/ZalpaOS)**  
 
 Esses projetos são focados em **monitoramento, segurança e automação** para ambientes corporativos.
 
