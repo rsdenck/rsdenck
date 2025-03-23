@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 Olá, sou **Ranlens Denck**!  
+# Sou **Ranlens Denck**!  
 
 Bem-vindo ao meu repositório! 🚀  
 
