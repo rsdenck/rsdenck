@@ -16,8 +16,8 @@ Sou **Analista de Infraestrutura de TI** focado em seguranca, automacao e monito
 ### **Forte atuacao em:**
 - ![Linux](https://img.shields.io/badge/-black?style=flat-square&logo=linux&logoColor=00ff00) **Linux**: Rocky / RHEL / Debian / Ubuntu
 - ![Monitoramento](https://img.shields.io/badge/-black?style=flat-square&logo=grafana&logoColor=00ff00) **Monitoramento**: Zabbix, Grafana, Prometheus
-- ![Seguran??a](https://img.shields.io/badge/-black?style=flat-square&logo=hashicorpvault&logoColor=00ff00) **Seguran??a**: Wazuh, Zeek, Suricata, HashiCorp Vault
-- ![Automa????o](https://img.shields.io/badge/-black?style=flat-square&logo=ansible&logoColor=00ff00) **Automa????o**: Bash, Python, PowerShell, Ansible
+- ![Segurança](https://img.shields.io/badge/-black?style=flat-square&logo=hashicorpvault&logoColor=00ff00) **Seguran??a**: Wazuh, Zeek, Suricata, HashiCorp Vault
+- ![Automação](https://img.shields.io/badge/-black?style=flat-square&logo=ansible&logoColor=00ff00) **Automa????o**: Bash, Python, PowerShell, Ansible
 - ![Ambientes](https://img.shields.io/badge/-black?style=flat-square&logo=googlecloud&logoColor=00ff00) **Ambientes**: On-prem (VMware, Proxmox) & Cloud (GCP, Hetzner, Cloudflare)
 
 ---
@@ -28,8 +28,8 @@ Sou **Analista de Infraestrutura de TI** focado em seguranca, automacao e monito
 | :--- | :--- |
 | **Sistemas** | Linux (Rocky, RHEL, Debian, Ubuntu), Windows Server |
 | **Observabilidade** | Zabbix, Prometheus, Grafana |
-| **Virtualiza????o & Infra** | VMware, Proxmox, Docker, KVM, Ceph |
-| **Automa????o & C??digo** | Bash, Python, Go, PHP, Git, PowerShell |
+| **Virtualização & Infra** | VMware, Proxmox, Docker, KVM, Ceph |
+| **Automação & Código** | Bash, Python, Go, PHP, Git, PowerShell |
 
 ---
 
