@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 style="color: #00ff00; background-color: #000000; padding: 15px; border: 2px solid #00ff00; border-radius: 10px; display: inline-block;">Ranlens | Infrastructure â€¢ Automation â€¢ SRE</h1>
-  <p style="font-size: 1.2em; color: #00ff00;">AutomaÃ§Ã£o. Observabilidade. Performance. Escalabilidade.</p>
-  <p style="color: #00ff00; font-style: italic;">"Transformando infraestrutura em cÃ³digo, mÃ©tricas em decisÃµes e sistemas em mÃ¡quinas confiÃ¡veis."</p>
+  <h1 style="color: #00ff00; background-color: #000000; padding: 15px; border: 2px solid #00ff00; border-radius: 10px; display: inline-block;">Ranlens | Infrastructure | Automation | SRE</h1>
+  <p style="font-size: 1.2em; color: #00ff00;">Automacao. Observabilidade. Performance. Escalabilidade.</p>
+  <p style="color: #00ff00; font-style: italic;">"Transformando infraestrutura em codigo, metricas em decisoes e sistemas em maquinas confiaveis."</p>
 
   [![GitHub followers](https://img.shields.io/github/followers/rsdenck?style=for-the-badge&logo=github&logoColor=black&labelColor=00ff00&color=black)](https://github.com/rsdenck)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ranlens_Denck-00ff00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/ranlensdenck/)
@@ -11,25 +11,25 @@
 ---
 
 ## **Quem sou eu**
-Sou **Analista de Infraestrutura de TI** focado em seguranÃ§a, automaÃ§Ã£o e monitoramento. Minha missÃ£o Ã© eliminar o trabalho manual, reduzir o ruÃ­do operacional e aumentar a previsibilidade atravÃ©s de uma **observabilidade proativa**.
+Sou **Analista de Infraestrutura de TI** focado em seguranca, automacao e monitoramento. Minha missao e eliminar o trabalho manual, reduzir o ruido operacional e aumentar a previsibilidade atraves de uma **observabilidade proativa**.
 
-### **Forte atuaÃ§Ã£o em:**
+### **Forte atuacao em:**
 - ![Linux](https://img.shields.io/badge/-black?style=flat-square&logo=linux&logoColor=00ff00) **Linux**: Rocky / RHEL / Debian / Ubuntu
 - ![Monitoramento](https://img.shields.io/badge/-black?style=flat-square&logo=grafana&logoColor=00ff00) **Monitoramento**: Zabbix, Grafana, Prometheus
-- ![SeguranÃ§a](https://img.shields.io/badge/-black?style=flat-square&logo=hashicorpvault&logoColor=00ff00) **SeguranÃ§a**: Wazuh, Zeek, Suricata, HashiCorp Vault
-- ![AutomaÃ§Ã£o](https://img.shields.io/badge/-black?style=flat-square&logo=ansible&logoColor=00ff00) **AutomaÃ§Ã£o**: Bash, Python, PowerShell, Ansible
+- ![Seguran??a](https://img.shields.io/badge/-black?style=flat-square&logo=hashicorpvault&logoColor=00ff00) **Seguran??a**: Wazuh, Zeek, Suricata, HashiCorp Vault
+- ![Automa????o](https://img.shields.io/badge/-black?style=flat-square&logo=ansible&logoColor=00ff00) **Automa????o**: Bash, Python, PowerShell, Ansible
 - ![Ambientes](https://img.shields.io/badge/-black?style=flat-square&logo=googlecloud&logoColor=00ff00) **Ambientes**: On-prem (VMware, Proxmox) & Cloud (GCP, Hetzner, Cloudflare)
 
 ---
 
-## **Stack TÃ©cnica**
+## **Stack Tecnica**
 
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Sistemas** | Linux (Rocky, RHEL, Debian, Ubuntu), Windows Server |
 | **Observabilidade** | Zabbix, Prometheus, Grafana |
-| **VirtualizaÃ§Ã£o & Infra** | VMware, Proxmox, Docker, KVM, Ceph |
-| **AutomaÃ§Ã£o & CÃ³digo** | Bash, Python, Go, PHP, Git, PowerShell |
+| **Virtualiza????o & Infra** | VMware, Proxmox, Docker, KVM, Ceph |
+| **Automa????o & C??digo** | Bash, Python, Go, PHP, Git, PowerShell |
 
 ---
 
@@ -67,19 +67,19 @@ Sou **Analista de Infraestrutura de TI** focado em seguranÃ§a, automaÃ§Ã£o
 ## **Projetos em Destaque**
 
 ### ![Monitoring](https://img.shields.io/badge/-black?style=flat-square&logo=prometheus&logoColor=00ff00) **Apex Monitoring**
-SoluÃ§Ã£o de monitoramento e observabilidade para ambientes Linux corporativos. Foco total em performance, seguranÃ§a e visibilidade em tempo real.
+Solucao de monitoramento e observabilidade para ambientes Linux corporativos. Foco total em performance, seguranca e visibilidade em tempo real.
 - Deploy Automatizado & Alta Disponibilidade.
-- Dashboards Customizados & IntegraÃ§Ã£o com Security Stack.
+- Dashboards Customizados & Integracao com Security Stack.
 
 ### ![ISO](https://img.shields.io/badge/-black?style=flat-square&logo=linux&logoColor=00ff00) **Zabbix Proxy ISO Customizada**
-OtimizaÃ§Ã£o de deploy para monitoramento distribuÃ­do. ISO enxuta e prÃ©-configurada com seguranÃ§a endurecida (Hardening).
-- Scripts de auto-registro e manutenÃ§Ã£o.
+Otimizacao de deploy para monitoramento distribuido. ISO enxuta e pre-configurada com seguranca endurecida (Hardening).
+- Scripts de auto-registro e manutencao.
 - *Menos cliques. Mais controle.*
 
 ### ![Security](https://img.shields.io/badge/-black?style=flat-square&logo=wazuh&logoColor=00ff00) **Security Stack (Wazuh/Suricata)**
-ImplementaÃ§Ã£o de SIEM e IDS/IPS de alta performance.
+Implementacao de SIEM e IDS/IPS de alta performance.
 - Monitoramento de integridade de arquivos (FIM).
-- DetecÃ§Ã£o de ameaÃ§as e resposta automatizada a incidentes.
+- Deteccao de ameacas e resposta automatizada a incidentes.
 
 ---
 
@@ -96,18 +96,18 @@ ImplementaÃ§Ã£o de SIEM e IDS/IPS de alta performance.
 ---
 
 ## **Filosofia**
-- *â€œSe nÃ£o Ã© monitorado, nÃ£o existe.â€*
-- *â€œSe Ã© repetitivo, deve ser automatizado.â€*
-- *â€œInfra nÃ£o Ã© arte. Ã‰ engenharia.â€*
+- *"Se nao e monitorado, nao existe."*
+- *"Se e repetitivo, deve ser automatizado."*
+- *"Infra nao e arte. E engenharia."*
 
 ---
 
 <div align="center">
   <p style="color: #00ff00; background-color: #000000; padding: 15px; border-top: 2px solid #00ff00; border-radius: 0 0 10px 10px;">
     <b>Ranlens Denck | Observabilidade First</b><br>
-    Construindo sistemas que nÃ£o acordam pessoas de madrugada.<br>
-    <a href="https://github.com/rsdenck" style="color: #00ff00;">GitHub</a> â€¢ 
-    <a href="https://www.linkedin.com/in/ranlensdenck/" style="color: #00ff00;">LinkedIn</a> â€¢ 
+    Construindo sistemas que nao acordam pessoas de madrugada.<br>
+    <a href="https://github.com/rsdenck" style="color: #00ff00;">GitHub</a> | 
+    <a href="https://www.linkedin.com/in/ranlensdenck/" style="color: #00ff00;">LinkedIn</a> | 
     <a href="mailto:ranlens.denck@protonmail.com" style="color: #00ff00;">Email</a>
   </p>
 </div>
