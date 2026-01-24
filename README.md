@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <h1 style="color: #00ff00; background-color: #000000; padding: 15px; border: 2px solid #00ff00; border-radius: 10px; display: inline-block;">Ranlens | Infrastructure â€¢ Automation â€¢ SRE</h1>
   <p style="font-size: 1.2em; color: #00ff00;">AutomaÃ§Ã£o. Observabilidade. Performance. Escalabilidade.</p>
   <p style="color: #00ff00; font-style: italic;">"Transformando infraestrutura em cÃ³digo, mÃ©tricas em decisÃµes e sistemas em mÃ¡quinas confiÃ¡veis."</p>
@@ -10,7 +10,7 @@
 
 ---
 
-## ðŸŸ¢ **Quem sou eu**
+## **Quem sou eu**
 Sou **Analista de Infraestrutura de TI** focado em seguranÃ§a, automaÃ§Ã£o e monitoramento. Minha missÃ£o Ã© eliminar o trabalho manual, reduzir o ruÃ­do operacional e aumentar a previsibilidade atravÃ©s de uma **observabilidade proativa**.
 
 ### **Forte atuaÃ§Ã£o em:**
@@ -22,7 +22,7 @@ Sou **Analista de Infraestrutura de TI** focado em seguranÃ§a, automaÃ§Ã£o
 
 ---
 
-## ðŸŸ¢ **Stack TÃ©cnica**
+## **Stack TÃ©cnica**
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -33,7 +33,7 @@ Sou **Analista de Infraestrutura de TI** focado em seguranÃ§a, automaÃ§Ã£o
 
 ---
 
-## ðŸŸ¢ **Skills & Tools**
+## **Skills & Tools**
 
 ### **Core Competencies**
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=00ff00)
@@ -64,26 +64,26 @@ Sou **Analista de Infraestrutura de TI** focado em seguranÃ§a, automaÃ§Ã£o
 
 ---
 
-## ðŸŸ¢ **Projetos em Destaque**
+## **Projetos em Destaque**
 
-### ðŸš€ **Apex Monitoring**
+### ![Monitoring](https://img.shields.io/badge/-black?style=flat-square&logo=prometheus&logoColor=00ff00) **Apex Monitoring**
 SoluÃ§Ã£o de monitoramento e observabilidade para ambientes Linux corporativos. Foco total em performance, seguranÃ§a e visibilidade em tempo real.
 - Deploy Automatizado & Alta Disponibilidade.
 - Dashboards Customizados & IntegraÃ§Ã£o com Security Stack.
 
-### ðŸ’¿ **Zabbix Proxy ISO Customizada**
+### ![ISO](https://img.shields.io/badge/-black?style=flat-square&logo=linux&logoColor=00ff00) **Zabbix Proxy ISO Customizada**
 OtimizaÃ§Ã£o de deploy para monitoramento distribuÃ­do. ISO enxuta e prÃ©-configurada com seguranÃ§a endurecida (Hardening).
 - Scripts de auto-registro e manutenÃ§Ã£o.
 - *Menos cliques. Mais controle.*
 
-### ðŸ›¡ï¸ **Security Stack (Wazuh/Suricata)**
+### ![Security](https://img.shields.io/badge/-black?style=flat-square&logo=wazuh&logoColor=00ff00) **Security Stack (Wazuh/Suricata)**
 ImplementaÃ§Ã£o de SIEM e IDS/IPS de alta performance.
 - Monitoramento de integridade de arquivos (FIM).
 - DetecÃ§Ã£o de ameaÃ§as e resposta automatizada a incidentes.
 
 ---
 
-## ðŸŸ¢ **GitHub Stats**
+## **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rsdenck&show_icons=true&theme=react&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" alt="rsdenck GitHub Stats" />
@@ -95,7 +95,7 @@ ImplementaÃ§Ã£o de SIEM e IDS/IPS de alta performance.
 
 ---
 
-## ðŸŸ¢ **Filosofia**
+## **Filosofia**
 - *â€œSe nÃ£o Ã© monitorado, nÃ£o existe.â€*
 - *â€œSe Ã© repetitivo, deve ser automatizado.â€*
 - *â€œInfra nÃ£o Ã© arte. Ã‰ engenharia.â€*
