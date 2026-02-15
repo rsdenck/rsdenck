@@ -83,6 +83,17 @@ Implementacao de SIEM e IDS/IPS de alta performance.
 - Monitoramento de integridade de arquivos (FIM).
 - Deteccao de ameacas e resposta automatizada a incidentes.
 
+### ![Go](https://img.shields.io/badge/-black?style=flat-square&logo=go&logoColor=00ff00) **ZYK-Server**
+Servidor IRC em GO, performatico usando protocolo: KYP — O Protocolo P2P (Messaging Layer).
+- Rede KRN: Rede de conectividade completa criptografada.
+
+### ![Go](https://img.shields.io/badge/-black?style=flat-square&logo=go&logoColor=00ff00) **ZYK-Client**
+Client IRC em GO, performatico usando protocolo: KYP — O Protocolo P2P (Messaging Layer).
+- Rede KRN: Rede de conectividade completa criptografada.
+
+### ![Web](https://img.shields.io/badge/-black?style=flat-square&logo=google-chrome&logoColor=00ff00) **Deed Web Messaging**
+Plataforma de mensagens web.
+
 </div>
 
 <br>
