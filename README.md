@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hello World!
+### Ring 0 Access
 <br>
 
 **Ranlens Denck | Observabilidade First**  
@@ -20,7 +20,7 @@ _"Construindo sistemas que nao acordam pessoas de madrugada."_
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/ranlensdenck/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00ff00" /></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" /></a>
   <a href="mailto:ranlens.denck@protonmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=protonmail&logoColor=00ff00" /></a>
   <a href="https://github.com/rsdenck" target="_blank">
