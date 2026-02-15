@@ -20,7 +20,7 @@ _"Construindo sistemas que nao acordam pessoas de madrugada."_
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/ranlensdenck/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" /></a>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" /></a>
   <a href="mailto:ranlens.denck@protonmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=protonmail&logoColor=00ff00" /></a>
   <a href="https://github.com/rsdenck" target="_blank">
@@ -105,8 +105,14 @@ Plataforma de mensagens web.
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsdenck&show_icons=true&theme=react&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" alt="rsdenck GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsdenck&layout=compact&theme=react&bg_color=000000&title_color=00ff00&text_color=00ff00&border_color=00ff00&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rsdenck&show_icons=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" alt="rsdenck GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsdenck&layout=compact&bg_color=000000&title_color=00ff00&text_color=00ff00&border_color=00ff00&hide_border=false" alt="Top Langs" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rsdenck&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br>
