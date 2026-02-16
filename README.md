@@ -128,14 +128,14 @@ _"Construindo sistemas que nao acordam pessoas de madrugada."_
 
 <h3>Architecture & Processes</h3>
 
-<img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=azure-devops&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=azuredevops&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/SRE-000000?style=for-the-badge&logo=site-reliability-engineering&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff00" />
 <br>
 <img src="https://img.shields.io/badge/Monolith-000000?style=for-the-badge&logo=box&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/SOA-000000?style=for-the-badge&logo=server&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=istio&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/SOA-000000?style=for-the-badge&logo=consul&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/Event--Driven-000000?style=for-the-badge&logo=apache-kafka&logoColor=00ff00" />
 
 </td>
