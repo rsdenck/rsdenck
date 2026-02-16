@@ -1,6 +1,11 @@
 <div align="center">
 
-### Ring 0 Access <img src="src/command-line.gif" width="30px" align="center" />
+<table>
+<tr>
+<td align="left" width="55%">
+
+### Ring 0 Access
+
 <br>
 
 **Ranlens Denck | Observabilidade First**  
@@ -10,17 +15,21 @@ Engenheiro Cloud | Engenheiro Linux | Especialista em Automações
 
 _"Construindo sistemas que nao acordam pessoas de madrugada."_
 
-<br>
+</td>
+<td align="center" width="45%">
+<img src="src/command-line.gif" width="100%" alt="Terminal">
+</td>
+</tr>
+</table>
 
-#
-<br>
+</div>
 
 ### Meus Contatos
 
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/ranlensdenck/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" /></a>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" alt="LinkedIn" /></a>
   <a href="mailto:ranlens.denck@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-000000?style=for-the-badge&logo=protonmail&logoColor=00ff00" /></a>
   <a href="https://github.com/rsdenck" target="_blank">
