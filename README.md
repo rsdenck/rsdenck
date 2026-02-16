@@ -52,6 +52,7 @@ _"Construindo sistemas que nao acordam pessoas de madrugada."_
 <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff00" />
 
 <hr>
 
@@ -130,6 +131,7 @@ _"Construindo sistemas que nao acordam pessoas de madrugada."_
 <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=azure-devops&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/SRE-000000?style=for-the-badge&logo=site-reliability-engineering&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff00" />
 <br>
 <img src="https://img.shields.io/badge/Monolith-000000?style=for-the-badge&logo=box&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=00ff00" />
