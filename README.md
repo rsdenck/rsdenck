@@ -1,6 +1,6 @@
 <div align="center">
 
-### Ring 0 Access
+### Ring 0 Access <img src="src/command-line.gif" width="30px" align="center" />
 <br>
 
 **Ranlens Denck | Observabilidade First**  
