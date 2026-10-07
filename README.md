@@ -1,232 +1,242 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="left" width="55%">
+<h1>NUX — CLI de administração Linux</h1>
 
-### Ring 0 Access
+<p>Ranlens Denck | Engenheiro Cloud | Especialista em Automações Linux</p>
 
-<br>
-
-**Ranlens Denck | Observabilidade First**  
-Engenheiro Cloud | Engenheiro Linux | Especialista em Automações
-
-<br>
-
-_"Construindo sistemas que nao acordam pessoas de madrugada."_
-
-</td>
-<td align="center" width="45%">
-<img src="src/command-line.gif" width="100%" alt="Terminal">
-</td>
-</tr>
-</table>
+<p>_"Construindo sistemas que não acordam pessoas de madrugada."_</p>
 
 </div>
 
-### Meus Contatos
+### Sobre
 
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/ranlensdenck/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" alt="LinkedIn" /></a>
-  <a href="mailto:ranlens.denck@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-000000?style=for-the-badge&logo=protonmail&logoColor=00ff00" /></a>
-  <a href="https://github.com/rsdenck" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/rsdenck/rsdenck/main/src/github.png&logoColor=00ff00" /></a>
-</div>
+NUX é uma CLI de nível profissional para administração de sistemas Linux, construída em Go com arquitetura modular, parser de logs nativos e monitoramento de tentativas de ataque em tempo real.
 
-<br>
-
-### Minhas Stacks
-
-Essas são as tecnologias e ferramentas que utilizo no meu dia a dia para monitoramento, análise de tráfego, segurança e automação.
+### Screenshots — NUX em execução
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<h3>Programming Language</h3>
-
-<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff00" />
-
-<hr>
-
-<h3>Infrastructure as Code</h3>
-
-<img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/OpenTofu-000000?style=for-the-badge&logo=opentofu&logoColor=00ff00" />
-
-<hr>
-
-<h3>Configuration Management</h3>
-
-<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/SaltStack-000000?style=for-the-badge&logo=saltstack&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Chef-000000?style=for-the-badge&logo=chef&logoColor=00ff00" />
-
-<hr>
-
-<h3>CI/CD & Orchestration</h3>
-
-<img src="https://img.shields.io/badge/GitLab_CI-000000?style=for-the-badge&logo=gitlab&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/rsdenck/rsdenck/main/src/github.png&logoColor=00ff00" />
-
-<hr>
-
-<h3>Containers & Orchestration</h3>
-
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Podman-000000?style=for-the-badge&logo=podman&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Incus_(LXC)-000000?style=for-the-badge&logo=linux&logoColor=00ff00" />
-
-</td>
-
-<td valign="top" width="50%">
-
-<h3>AI Engineering</h3>
-
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/GPT--4-000000?style=for-the-badge&logo=openai&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Llama-000000?style=for-the-badge&logo=meta&logoColor=00ff00" />
-
-<hr>
-
-<h3>Security Engineering</h3>
-
-<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/rsdenck/rsdenck/main/src/Wazuh_blue.png&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Suricata-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/rsdenck/rsdenck/main/src/suricata.png&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Zeek-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/rsdenck/rsdenck/main/src/zeek.png&logoColor=00ff00" />
-
-<hr>
-
-<h3>Observability & Monitoring</h3>
-
-<img src="https://img.shields.io/badge/Zabbix-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/rsdenck/rsdenck/main/src/zabbix.png&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Elastic_Stack-000000?style=for-the-badge&logo=elastic-stack&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/OTLP-000000?style=for-the-badge&logo=opentelemetry&logoColor=00ff00" />
-
-<hr>
-
-<h3>Cloud & Virtualization</h3>
-
-<img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/KVM-000000?style=for-the-badge&logo=linux&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Apache_CloudStack-000000?style=for-the-badge&logo=apache&logoColor=00ff00" />
-
-<hr>
-
-<h3>Architecture & Processes</h3>
-
-<img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/rsdenck/rsdenck/main/src/devops.png&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/rsdenck/rsdenck/main/src/github.png&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/SRE-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/rsdenck/rsdenck/main/src/devops.png&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff00" />
-<br>
-<img src="https://img.shields.io/badge/Monolith-000000?style=for-the-badge&logo=box&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=istio&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/SOA-000000?style=for-the-badge&logo=consul&logoColor=00ff00" />
-<img src="https://img.shields.io/badge/Event--Driven-000000?style=for-the-badge&logo=apache-kafka&logoColor=00ff00" />
-
-</td>
-</tr>
-</table>
+![NUX Dashboard](https://raw.githubusercontent.com/rsdenck/nux/main/docs/screenshots/dashboard.png) &
+![NUX Disk](https://raw.githubusercontent.com/rsdenck/nux/main/docs/screenshots/disk.png) &
+![NUX Network](https://raw.githubusercontent.com/rsdenck/nux/main/docs/screenshots/network.png) &
+![NUX Services](https://raw.githubusercontent.com/rsdenck/nux/main/docs/screenshots/services.png) &
+![NUX Security](https://raw.githubusercontent.com/rsdenck/nux/main/docs/screenshots/security.png) &
+![NUX Attacks](https://raw.githubusercontent.com/rsdenck/nux/main/docs/screenshots/attacks.png)
 
 </div>
 
-<br>
+*Capturas reais da TUI — cada aba do NUX MANAGER. As cores usam o tema RHEL Orange (acentos #ff8700, fundo escuro #2d1c0c).*
 
-#
+### Recursos principais
 
-### Projetos em Destaque
+- **NUX MANAGER (TUI)**: interface em tela cheia para administrar o Linux — dashboard, serviços, processos, rede, disco, usuários, segurança e ataques ao vivo
+- **Analyzer de tentativas em tempo real**: monitora SSH, NTP, SMB, NetBIOS, Telnet, FTP, SMTP, DNS, POP3, VNC e mais
+- **Doctor completo**: verifica kernel, rede, segurança, storage e serviços
+- **Hardening guiado** em `nux run`: cria usuário, gera chaves RSA 4096 via OpenSSL, desabilita login root por senha
+- **Logs nativos Linux**: `journalctl -u <unit>` em systemd; fallback `tail -F /var/log/*` em distros sem systemd, com filtro por palavra-chave do serviço (evita falsos positivos)
+- **Saída padronizada** no formato GCX (JSON/YAML) para automação e integração com ferramentas externas
+- **Sem dependências de fail2ban** — tudo processado internamente
 
-<div align="left">
+### Instalação
 
-### ![Monitoring](https://img.shields.io/badge/-black?style=flat-square&logo=prometheus&logoColor=00ff00) **Apex Monitoring**
-Solucao de monitoramento e observabilidade para ambientes Linux corporativos. Foco total em performance, seguranca e visibilidade em tempo real.
-- Deploy Automatizado & Alta Disponibilidade.
-- Dashboards Customizados & Integracao com Security Stack.
+```bash
+git clone https://github.com/rsdenck/nux
+cd nux
+go build ./cmd/nux
+sudo cp nux /usr/local/bin/
+```
 
-### ![ISO](https://img.shields.io/badge/-black?style=flat-square&logo=linux&logoColor=00ff00) **Zabbix Proxy ISO Customizada**
-Otimizacao de deploy para monitoramento distribuido. ISO enxuta e pre-configurada com seguranca endurecida (Hardening).
-- Scripts de auto-registro e manutencao.
-- *Menos cliques. Mais controle.*
+### Quick start
 
-### ![Security](https://img.shields.io/badge/-black?style=flat-square&logo=linux&logoColor=00ff00) **Security Stack (Wazuh/Suricata)**
-Implementacao de SIEM e IDS/IPS de alta performance.
-- Monitoramento de integridade de arquivos (FIM).
-- Deteccao de ameacas e resposta automatizada a incidentes.
+```bash
+# 1) Setup obrigatório (desbloqueia a CLI)
+nux run
 
-### ![Go](https://img.shields.io/badge/-black?style=flat-square&logo=go&logoColor=00ff00) **ZYK-Server**
-Servidor IRC em GO, performatico usando protocolo: KYP — O Protocolo P2P (Messaging Layer).
-- Rede KRN: Rede de conectividade completa criptografada.
+# 2) Abrir o NUX MANAGER (TUI completa de administração)
+nux
+#    (ou explicitamente: nux manager)
 
-### ![Go](https://img.shields.io/badge/-black?style=flat-square&logo=go&logoColor=00ff00) **ZYK-Client**
-Client IRC em GO, performatico usando protocolo: KYP — O Protocolo P2P (Messaging Layer).
-- Rede KRN: Rede de conectividade completa criptografada.
+# 3) Saúde do sistema
+nux doctor
 
-### ![Web](https://img.shields.io/badge/-black?style=flat-square&logo=google-chrome&logoColor=00ff00) **Deed Web Messaging**
-Plataforma de mensagens web.
+# 4) Monitorar tentativas em tempo real
+nux ssh view
+nux ntp view
 
-</div>
+# 5) Snapshot estático
+nux ssh view --once --tail 50
+```
 
-<br>
+### NUX MANAGER (TUI)
 
-#
+Após o `nux run`, rodar `nux` sem argumentos abre o NUX MANAGER: uma TUI em tela cheia que administra o host inteiro, sem precisar decorar comandos.
 
-### Estatísticas
+Navegação: `tab` (ou `←`/`→`) troca de aba, `↑`/`↓` move a seleção e `enter` abre o item. `shift+tab` (ou `←`) abre a aba anterior. `esc` volta. `q` / `ctrl+c` sai.
 
-<br>
+| Aba          | O que mostra                                                 | O que `enter` faz                          |
+|--------------|--------------------------------------------------------------|--------------------------------------------|
+| DASHBOARD    | host, carga, memória, discos, serviços, ataques, alertas    | salta para a aba do item                   |
+| SYSTEM       | SO, kernel, uptime, load, memória, swap, top processos        | `/proc` do processo, `free`, `vmstat`      |
+| DISK         | filesystems com barras de uso + árvore do `lsblk`            | uso, inodes, maiores diretórios, smart     |
+| NETWORK      | interfaces, IPs, MAC, portas em escuta (`ss -tulnp`)          | `ip addr`, rotas, estatísticas, dono da porta |
+| SERVICES     | status de cada unidade systemd                                | **menu**: start, stop, restart, enable, disable, status, journal, dependências |
+| PROCESSES    | top 20 processos por CPU                                      | `/proc`, fds abertos, linha de comando     |
+| USERS        | contas locais e sessões ativas (`who`)                        | grupos, home, últimos logins, processos    |
+| SECURITY     | postura (sshd, firewall, SELinux) + tentativas recentes      | a checagem e a **remediação sugerida**     |
+| ATTACKS      | monitor ao vivo dos 10 protocolos, top IPs, eventos           | troca o protocolo ou mostra a linha do log |
+| LOGS         | erros recentes do journal                                     | linha completa + histórico da unidade      |
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rsdenck&show_icons=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" alt="rsdenck GitHub Stats" /> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rsdenck&layout=compact&bg_color=000000&title_color=00ff00&text_color=00ff00&border_color=00ff00&hide_border=false" alt="Top Langs" />
-</div>
+### Teclas
 
-<br>
+```
+navegação   tab /        proxima aba        shift+tab /      aba anterior
+              ←           esquerda           →           direita
+              ↑ ↓       mover a seleção    home / end    topo / fim
+              pgup / pgdn pular 10 linhas   enter         abrir / executar
+              esc         voltar            q / ctrl+c    sair
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rsdenck&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+menus       ↑ ↓ escolhe · enter executa · esc fecha
+              pgup / pgdn pula a lista · home / end topo / fim
+ detalhe     ↑ ↓ rola · pgup / pgdn pula · home / end topo / fim · esc volta
+ ajuda       ↑ ↓ rola · enter / esc fecha
 
-<br>
+ geral       f5 / r  recarrega a aba      p  liga/desliga auto-refresh
+              m         menu NUX             f1 / ?  ajuda
+              /         filtro incremental   esc limpa o filtro
+```
 
-<div align="center">
-  <a href="https://github.com/rsdenck">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsdenck&theme=react-dark&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&custom_title=RSDENCK%20Activity%20Graph" alt="rsdenck's github activity graph" />
-  </a>
-</div>
+Exemplo: `nux` → `tab` até SERVICES → `enter` no serviço → `enter` em *restart* → o comando roda e o resultado aparece numa tela rolável → `esc` volta.
 
-<br>
+> Sem `nux run` a TUI **nunca abre**: a CLI avisa `CLI BLOQUEADA` e pede o setup.
 
-#
+---
 
-<div align="center">
-  <h3>Filosofia</h3>
-  <i>"Se nao e monitorado, nao existe."</i><br>
-  <i>"Se e repetitivo, deve ser automatizado."</i><br>
-  <i>"Infra nao e arte. E engenharia."</i>
-</div>
+### `nux run` — Onboarding
 
-</div>
+```
+Detecting Linux environment ......................... ✓
+Detecting distribution ............................. ✓
+...
+SELECT ENVIRONMENT PROFILE
+  1) Minimal
+  2) Sysadmin
+  3) DevOps
+  4) Security
+  5) Full
+  6) Custom
 
+SECURITY BOOTSTRAP  .--.   |o_o |  /   \  (\_.-.)/
+Criar usuário administrador?
+Gerar par de chaves privadas com openssl (RSA 4096)? [Y/n]
+Desabilitar login root por senha no SSH? [Y/n]
+```
 
+### `nux doctor` — Diagnóstico
 
+```
+ NUX System Doctor
+ ═══════════════════════════════════════════════════════
+  SYSTEM
+   Kernel             ✓ 5.14.0-687.48.1.el9_8.x86_64
+   Architecture       ✓ x86_64
+   Init system        ✓ systemd
+   Filesystem         ✓
 
+  NETWORK
+   Default route      ✓
+   DNS                ✓
+   IPv4               ✓
+   IPv6               ✓ sem IPv6
 
+  SECURITY
+   SELinux            ✓ enforcing
+   Firewall           ✓ active
+   SSH                ! 357 failed attempts
+   Root login         ✓ disabled
+   Password auth      ! enabled
 
+  STORAGE
+   /                  ✓ 78% used
+   /var               ✓ 78% used
+   /home              ✓ 78% used
+   /etc               ✓ 78% used
 
+  SERVICES
+   systemd            ✓
+   sshd               ✓
+   chronyd            ✓ inactive
+   firewalld          ✓
 
+ ════════════════════════════════════════════════════════
 
+ RESULT
+   2 warnings
+   0 critical issues
+ Recommendation:
+   nux security harden
+```
+
+### Analisador de Tentativas (TUI)
+
+```bash
+nux ssh view        # TUI ao vivo das tentativas SSH
+nux ntp view        # TUI ao vivo do NTP
+nux smb view        # SMB 445/TCP
+nux telnet view     # Telnet 23/TCP
+nux ftp view        # FTP 21/TCP
+nux smtp view       # SMTP 25/TCP
+nux dns view        # DNS 53
+nux pop3 view       # POP3/POP3S 110/995
+nux vnc view        # VNC 5900+
+nux netbios view    # NetBIOS 139/TCP
+```
+
+Opções: `--once` (snapshot), `--tail N`, `--since "24 hours ago"`, `--refresh 2s`
+
+### Arquitetura
+
+```
+cmd/nux/commands/
+  manager.go            # NUX MANAGER (TUI) — abas, ações, filtro
+  attempts.go           # nux <proto> view (TUI de tentativas)
+  root.go               # ajuda, trava, atalhos -u/-a/-d
+  run.go doctor.go ...  # demais comandos
+internal/modules/
+  attempts/             # analisador de logs nativos (parsers + TUI stream)
+  manager/              # coleta de dados do host para a TUI
+  audit/  ssh/  security/ ...
+internal/tui/
+  # raw mode, teclado, cores, alt screen
+internal/output/
+  # GCX format (JSON/YAML/table)
+internal/vault/
+  # config criptografada ~/.nux
+```
+
+### Por que `journalctl` + fallback de arquivo?
+
+O NUX lê **logs nativos do Linux** diretamente — sem dependência de ferramentas externas. Em sistemas systemd usa `journalctl -u <unit>`; em distros sem systemd (Alpine/OpenRC) cai automaticamente para `tail -F /var/log/{messages,secure,syslog,xferlog,maillog}` com filtro por palavra-chave do serviço (evita falsos positivos).
+
+### Testes
+
+```bash
+go test ./...
+go vet ./cmd/nux/commands/
+go build ./cmd/nux
+```
+
+### Releases & Versionamento
+
+```bash
+git tag v0.6.0
+git push origin v0.6.0
+goreleaser release --clean
+```
+
+### Contribuir
+
+Veja [CONTRIBUTING.md](CONTRIBUTING.md). Issues e PRs são bem-vindos em https://github.com/rsdenck/nux
+
+### Licença
+
+MIT — ver [LICENSE](LICENSE).
